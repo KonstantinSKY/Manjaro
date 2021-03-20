@@ -5,7 +5,6 @@
 echo searching for fast mirrors...
 sudo pacman-mirrors -f
 
-
 echo Update system..
 sudo pacman -Syyu
 
