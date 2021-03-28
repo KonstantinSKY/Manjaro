@@ -3,3 +3,13 @@ jq
 mc
 cmake
 base-devel
+gcc
+nodejs
+npm
+go
+jre-openjdk-headless
+jre-openjdk
+jdk-openjdk
+openjdk-doc
+openjdk-src
+
