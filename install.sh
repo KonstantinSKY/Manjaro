@@ -11,4 +11,5 @@ sudo pacman -Syu --needed $pkgs_list
 echo Will be installed from official repository:
 echo $pkgs_aur_list
 echo Installing...
+sudo pamac install $pkgq_aur_list
 

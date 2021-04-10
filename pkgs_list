@@ -13,4 +13,6 @@ jdk-openjdk
 openjdk-doc
 openjdk-src
 mysql-workbench
-
+nmap
+sqlitebrowser
+pgadmin4
