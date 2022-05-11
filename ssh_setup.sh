@@ -1,4 +1,4 @@
-#!/bin/bash
+#sudo systemctl start sshd!/bin/bash
 
 #Install ssh server for manjaro and show IP 
 
